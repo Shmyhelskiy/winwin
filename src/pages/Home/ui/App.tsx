@@ -19,7 +19,7 @@ export const App = () => {
 				{t('homePage.chosenFilters')}
 			</button>
 			<article className="felx gap-2 pt-2">
-				<h2 className="text-bold text-2xl">{t('homePage.buttonTitle')}</h2>
+				<h2 className="text-bold text-2xl">{t('homePage.chosenFilters')}</h2>
 				{selectedFilters.map((item, index) => (
 					<p key={`${item}-${index}`}>{item}</p>
 				))}
