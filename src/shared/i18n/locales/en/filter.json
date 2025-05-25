@@ -1,1 +1,17 @@
-{}
+{
+  "homePage": {
+    "title": "WinWinTravel frontend test task",
+    "chosenFilters": "Chosen filters:",
+    "setFilterButton": "Set filter"
+  },
+  "filterModalForm": {
+    "title": "Filter",
+    "apply": "Apply",
+    "clear": "Clear all parameters"
+  },
+  "confirmModal": {
+    "title": "Do you want to apply new filter",
+    "useOld": "Use old filter",
+    "applyNew": "Apply new filter"
+  }
+}

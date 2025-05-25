@@ -24,7 +24,7 @@
 		"noUnusedParameters": true,
 		"noFallthroughCasesInSwitch": true
 	},
-	"include": ["custom.d.ts", "env.d.ts", "src", "setupTest.ts"],
+	"include": ["custom.d.ts", "env.d.ts", "src", "setupTest.ts", "src/components/filterModal/ConfirmModal.tsx"],
 	"exclude": ["node_modules", "tmp", ".vscode", ".husky"],
 	"references": [
 		{
